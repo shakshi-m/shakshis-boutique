@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Page</title>
+    <link rel="stylesheet" href="stlye2.css" />
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <!-- nav start -->
+    <div id="navbar"></div>
+    <!-- nav end -->
+    <div class="product-container-d5">
+      <!-- LEFT IMAGE GALLERY -->
+      <div class="gallery">
+        <div class="thumbs">
+          <div class="thumbs" id="thumbs"></div>
+        </div>
+
+        <div class="main-image">
+          <img id="mainImage" />
+        </div>
+      </div>
+
+      <!-- RIGHT DETAILS -->
+      <div class="details">
+        <h2 id="product-title"></h2>
+
+        <p class="desc" id="product-desc"></p>
+
+        <h3 class="price" id="product-price"></h3>
+
+        <!-- SIZE -->
+        <div class="size">
+          <p>Select Size</p>
+          <div class="size-box">
+            <button>S</button>
+            <button>M</button>
+            <button>L</button>
+            <button>XL</button>
+            <button>XXL</button>
+          </div>
+        </div>
+
+        <!-- QTY -->
+        <div class="qty">
+          <p>QTY</p>
+          <button id="minus">-</button>
+          <span id="count">1</span>
+          <button id="plus">+</button>
+        </div>
+
+        <!-- BUTTONS -->
+        <div class="actions">
+          <button class="cart">ADD TO CART</button>
+          <button class="wishlist">❤</button>
+        </div>
+
+        <!-- DELIVERY -->
+        <div class="delivery">
+          <input type="text" placeholder="Enter Pincode" />
+          <button>CHECK</button>
+          <p class="date">Standard delivery by 21st February</p>
+        </div>
+
+        <!-- ACCORDION -->
+        <div class="accordion">
+          <div class="acc-item">
+            <div class="acc-title">Product Details</div>
+            <div class="acc-content">Chanderi Kurta with zari dupatta</div>
+          </div>
+
+          <div class="acc-item">
+            <div class="acc-title">Shipping & Returns</div>
+            <div class="acc-content">7 day return available</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- footer start -->
+    <div id="footerbar"></div>
+    <!-- footer end -->
+      <div class="floating_btn">
+      <a target="_blank" href="https://wa.me/">
+        <div class="contact_icon">
+          <img src="./assets/images/whatsapp.svg" alt="" />
+        </div>
+      </a>
+      <p class="text_icon">Talk to us?</p>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="./assets/scripts/navbar.js"></script>
+    <script src="./assets/scripts/footerbar.js"></script>
+  </body>
+</html>
