@@ -1,6 +1,6 @@
 # 🌸 SHAKSHI'S BOUTIQUE
 
-A luxury ethnic fashion website designed and developed as part of my web development portfolio.
+##### A luxury ethnic fashion website designed and developed as part of my web development portfolio.
 
 ## 🌐 Live Demo
 https://shakshi-m.github.io/shakshis-boutique/
