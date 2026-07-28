@@ -18,8 +18,13 @@ Elegant Typography
 HTML5
 CSS3
 JavaScript
-Home page screenshot<img width="863" height="1823" alt="ChatGPT Image Jul 14, 2026, 07_11_01 PM" src="https://github.com/user-attachments/assets/5a504f7d-2275-477d-9b57-9e272a6916d3" />
+
+Home page screenshot
+
+<img width="863" height="1823" alt="ChatGPT Image Jul 14, 2026, 07_11_01 PM" src="https://github.com/user-attachments/assets/5a504f7d-2275-477d-9b57-9e272a6916d3" />
+
 <img width="872" height="1804" alt="ChatGPT Image Jul 14, 2026, 10_18_20 PM" src="https://github.com/user-attachments/assets/85baddf0-3e1c-4c20-9801-4f8876f7c799" />
+
 <img width="1915" height="844" alt="About us page" src="https://github.com/user-attachments/assets/a99aefb9-16bb-4b97-a56b-59a640369785" />
 
 
