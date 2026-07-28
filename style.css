@@ -1,17 +1,14 @@
-@import url(./assets/styles/nav.css);
-@import url(./assets/styles/about.css);
-
 @font-face {
   font-family: jaldi-bold;
-  src: url("./assets/fonts/Jaldi/Jaldi-Bold.ttf");
+  src: url(./assets/fonts/Jaldi/Jaldi-Bold.ttf);
 }
 @font-face {
   font-family: jaldi;
-  src: url("./assets/fonts/Jaldi/Jaldi-Regular.ttf");
+  src: url(./assets/fonts/Jaldi/Jaldi-Regular.ttf);
 }
 @font-face {
   font-family: italiana;
-  src: url("./assets/fonts/Italiana/Italiana-Regular.ttf");
+  src: url(./assets/fonts/Italiana/Italiana-Regular.ttf);
 }
 
 /* ============================= */
